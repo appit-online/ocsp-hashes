@@ -2,7 +2,6 @@
 
 Creates ocsp hashes for certificate revocation check from pem encoded certificates.
 
-
 ##Publications:
 
 https://blog.appit-online.de/publications/
