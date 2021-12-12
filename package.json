@@ -1,6 +1,6 @@
 {
   "name": "ocsp-hashes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates ocsp hashes from pem certificate and pem issuer certificate for ocsp revocation validation",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -45,14 +45,14 @@
   },
   "homepage": "https://github.com/appit-online/ocsp-hashes#readme",
   "devDependencies": {
-    "@types/jest": "^25.2.1",
-    "@types/node": "^13.11.0",
-    "jest": "^25.2.7",
-    "prettier": "^2.0.2",
-    "ts-jest": "^25.3.1",
-    "tslint": "^6.1.1",
+    "@types/jest": "^27.0.3",
+    "@types/node": "^16.11.12",
+    "jest": "^27.4.4",
+    "prettier": "^2.5.1",
+    "ts-jest": "^27.1.1",
+    "tslint": "^6.1.3",
     "tslint-config-prettier": "^1.18.0",
-    "typescript": "^3.8.3"
+    "typescript": "^4.5.3"
   },
   "dependencies": {}
 }
